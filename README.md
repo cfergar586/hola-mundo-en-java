@@ -1,18 +1,18 @@
-# \# hola-mundo-en-java
+# # hola-mundo-en-java
 
 
 
-\## Descripción 
+## Descripción 
 
 
 
-Programa "Hola Mundo" en \*Java
+Programa "Hola Mundo" en *Java
 
 
 
-Para \*\*compilar\*\* 
+Para **compilar** 
 
 
 
-Enlace \[Aprende Java con ejercicios] (https://leanpub.com/aprendejava)
+Enlace [Aprende Java con ejercicios] (https://leanpub.com/aprendejava)
 
